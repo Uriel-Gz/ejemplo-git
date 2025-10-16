@@ -1,7 +1,11 @@
 Proyecto ejemplo
 
+<<<<<<< HEAD
 
 Cambio realizado desde feature/login ☕
 
 cambio hecho desde feature/dashboard
 
+=======
+cambios desde feature/dashboard
+>>>>>>> feature/dashboard
